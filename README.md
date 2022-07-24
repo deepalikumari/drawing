@@ -1,2 +1,3 @@
 SKETCHPY IS A PYTHON MODULE FOR ANIMATING DRAWINGS OF IMAGES.
-pip install sketchpy  in cmd
+
+Run :- pip install sketchpy  in cmd
